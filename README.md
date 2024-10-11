@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1B1A55,100:535C91&section=header&reversal=false"/>
 <h2 align="center">👋 Olá! me chamo Hendrick e eu tento ser programador 😓</h2>
 
 ###
@@ -62,3 +63,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1B1A55,100:535C91&section=header&reversal=false"/>
