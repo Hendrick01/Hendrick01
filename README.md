@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-  Tenho 22 anos, sou de Boa Vista-RR e estudante de Ciência da Computação na UFRR. Ainda sem uma especialidade definida, estou sempre em busca de expandir meus conhecimentos e me adaptar a diversas tarefas, explorando novas áreas e habilidades.
+  Tenho 23 anos, sou de Boa Vista-RR e estudante de Ciência da Computação na UFRR. Ainda sem uma especialidade definida, estou sempre em busca de expandir meus conhecimentos e me adaptar a diversas tarefas, explorando novas áreas e habilidades.
 </p>
 
 ###
